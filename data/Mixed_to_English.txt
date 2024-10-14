@@ -1,0 +1,363 @@
+Input: Lawyer refers to a person who speaks or acts on behalf of another individual. In this context, the term is specifically related to legal matters and thus only refers to legal practitioners.
+Output: wakeel aik aisi shakhsiyat ko kaha jata hai ke jo dosray apne Sarif ki janib se ya uski baabat guftagu kere is mazmoon mein yeh guftagu qanoon se mutaliq tasawwur ki gayi hai aur is wajah se yeh mazmoon sirf qanooni wukla ke baray mein zikar karta hai
+
+Input: A lawyer is a person who is authorized to act on behalf of or represent another person. A travel agent is a person who arranges holidays and travels. A secret agent is a spy.
+Output: wakeel qanoon 1 shakhs jisay dosray shakhs ki jagah kaam karne ya ki numaindagi karne ka ikhtiyar haasil hota hai wakeel safar 1 shakhs jo tatilat aur safar ka bandobast karta hai khufia wakeel aik jasoos
+
+Input: Wakeel Bazaar District is one of the districts in Turkmenistan, located in the Mary province.
+Output: wakeel bazaar zila lateeni turkmenistan ka aik turkmenistan ke azlaa jo soobah maari mein waqay hai
+
+Input: Wakeel wala Railway Station is located in wakeel wala.
+Output: wakeel wala railway station wakeel wala mein waqay hai
+
+Input: Wakeel wala Railway Station is located in wakeelwala  Pakistan.
+Output: wakeel wala railway station Pakistan mein waqay hai
+
+Input: I uploaded this picture on the English Wikipedia.
+Output: wikipedia angrezi par yeh tasweer mein ne hi aplod ki thi
+
+Input: Wikipedia does not enforce any specific arrangement.
+Output: wikipedia khud kisi bhi tarteeb ko nafiz nahi karta
+
+Input: The Wikipedia logo features Nastaliq calligraphy.
+Output: wikipedia logo ke liye nastalik khtati
+
+Input: You can simply add images to Wikipedia using this line.
+Output: wikipedia mein is satar se aap tasaveer saada tareeqay se shaamil kar saktay hain
+
+Input: Welcome to Wikipedia.
+Output: wikipedia mein khush aamdeed
+
+Input: On Wikipedia, no one is given precedence based on how much they have contributed.
+Output: wikipedia mein kisi ke ko is baat ki wajah se foqiat haasil nahi ke is ne kis qader wikipedia mein izafah kya hai
+
+Input: Wikipedia policy.
+Output: wikipedia policy
+
+Input: There are only a thousand articles on Wikipedia, of which perhaps a thousand are original articles.
+Output: wikipedia par sirf hazaar mazmoon hain jin mein se asal mazmoon shayad hazaar hunge
+
+Input: Each user on Wikipedia has their own page.
+Output: wikipedia par har Sarif ka abna aik safha hota hai
+
+Input: Statistics of Wikipedia.
+Output: wikipedia ke adad o shumaar
+
+Input: The original images of Wikipedia users.
+Output: wikipedia ke sarfeen ki asal tasaveer
+
+Input: The search box appears on the right side of any Wikipedia page.
+Output: wikipedia ke kisi bhi safha ke dayen janib talaash ka khanah nazar aata hai
+
+Input: Otherwise, the heart wants to stop it.
+Output: wagar nah dil to usay rokna hi chahta hai
+
+Input: Wagan City is a beautiful city in Larkana District, Sindh, located at a distance of kilometers from Larkana on the Indus Highway.
+Output: vgn shehar zila larkana Sindh ka aik khobsorat shehar hai yeh indus high way par larkana se kilometer ke faasla par waqay hai
+
+Input: The culture of the inhabitants was more advanced than that of the peoples of Prophet Noah (peace be upon him), Prophet Hud (peace be upon him), and Prophet Shu'ayb (peace be upon him).
+Output: vhan ke rehne walon ka tamaddun bhi hazrat Nooh aleh salam hazrat Hood aleh salam aur hazrat Shoiab aleh salam ki aqwam se ziyada taraqqi Yafta tha
+
+Input: He and He are the orators.
+Output: woh aur woh umm alklami
+
+Input: He has also been awarded the ICC's Best Performance of the Year in the T20 format, which he earned for scoring runs off balls against the West Indies.
+Output: woh mein aayi si si ki janib se tea farmit mein saal ki behtareen car kardagi ka aizaz bhi haasil kar chuka hai jo usay west indies ke khilaaf gaindon par dorhin runs bana ne par mila
+
+Input: He served as a minister during the reigns of Alp Arslan and Malik Shah I.
+Output: woh taa Alap Arsalan ke daur hukoomat aur taa malik Shah awwal ke daur hukoomat mein wizarat ke ohday par Faiz raha
+
+Input: He was elected secretary of the Lahore High Court Bar Association.
+Output: woh taa mein Lahore high court baar association ke secretary muntakhib hue
+
+Input: He passed away on December after a brief illness at a heart disease hospital in Karachi and was buried in Muhammad Shah Cemetery in North Karachi.
+Output: woh decemeber ko mukhtasir alalat ke baad Karachi ke aik amraaz qalb ke hospital mein khaaliq haqeeqi se jamilay aur wahein north Karachi ke Mohammad Shah qabrustan mein aasooda khaak hain
+
+Input: He served as Prime Minister of India from to.
+Output: woh se taq Bharat ke Wazeer e Azam rahay
+
+Input: He served as a lawyer for the Government of Pakistan from to.
+Output: woh se le kar taq hukoomat Pakistan ke wakeel rahay
+
+Input: He passed away at the age of in.
+Output: woh mein baras ki Umar mein intqaal kargaye
+
+Input: He was born in Istanbul in.
+Output: woh mein istanbul mein peda hue
+
+Input: He went to the United Nations and presented his stance on Kashmir.
+Output: woh mein aqwam mutahidda gay aur Kashmir par apna muaqqaf bayan kya
+
+Input: She was the only woman featured in a poster of the greatest aviators in history published by the U.S. Air Force.
+Output: woh mein Amrici fazaiya ke shaya kardah poster tareekh ke azeem tareen sun-hwa baz mein wahid khatoon theen
+
+Input: He was afflicted with a deadly disease that weakens the human immune system.
+Output: woh mein ensaan ki qowat mudafat ko kamzor kar dainay wali aik mohlik bemari mein mubtala ho gay they
+
+Input: He was also part of the historic Pakistani team that achieved victory at the Oval.
+Output: woh mein Oval ki tareekhi kamyabi haasil karne wali Pakistani team ka bhi hissa they
+
+Input: He joined the Bharatiya Janata Party and entered state politics.
+Output: woh mein bhartih jnta party mein shaamil hotay hue reyasti siyasat mein kood parre
+
+Input: He was born in Damascus in.
+Output: woh mein Dimashq mein peda hue
+
+Input: He was appointed Director of the Central Urdu Board, which later became the Urdu Science Board.
+Output: woh mein markazi urdu board ke director muqarrar hue jo baad mein urdu science board mein tabdeel hogaya
+
+Input: He was born in Mahmoudiya, a scholarly and pious family in Egypt.
+Output: woh mein misar ki bastii mhmodih ke aik ilm dost aur deendar gharane mein peda hue
+
+Input: He also served as Minister of Education.
+Output: woh mein wazeer taleem bhi reh chuke hain
+
+Input: He was elected to the Karachi Municipality and served until.
+Output: woh mein Karachi myonsplti ke rukan banay aur taq is ke rukan rahay
+
+Input: After spending a year and a half in Canada, he returned to Pakistan, but during a show in Gujranwala, he was arrested by the police and sent to jail on charges of obscenity and vulgar dance.
+Output: woh mein canada mein daidh saal guzaray ke baad Pakistan wapas ayen lekin Gujranwala mein aik show ke douran inhen police ne hirasat mein le liya aur un par uryani aur lachar dance ka ilzaam laga kar hawalaat mein bhaij diya gaya
+
+Input: He was born in Meerut at the house of Maulana Abdul Aleem Siddiqui.
+Output: woh ko mirth mein molana abdalalim Siddiqui ke ghar peda hue
+
+Input: In the early s, Himmat Ali moved to Karachi and joined Radio Pakistan.
+Output: woh ke awail mein himayat Ali Karachi aakar radio Pakistan ka hissa banay
+
+Input: He was elected again in the general elections and has been serving as Deputy Speaker of the Balochistan Assembly since April.
+Output: woh ke aam antkhaba mein aik baar phir muntakhib ho ye aur April se deputy speaker Balochistan assembly ke ohday par Faiz hain
+
+Input: He was elected a member of the Balochistan Provincial Assembly from Pishin constituency in the general elections.
+Output: woh ke aam intikhabaat mein Pasheen ke halqa se rukan Balochistan sobai assembly muntakhib ho ye
+
+Input: He was a staunch opponent of the Islamic Republic of Pakistan.
+Output: woh islami jamhooria Pakistan ke sakht mukhalif they
+
+Input: He also served as Chief Minister of Balochistan from April to October.
+Output: woh April se october taq Balochistan ke wazeer Alla bhi rahay
+
+Input: He was born in Lahore, Pakistan in October.
+Output: woh october kolahor Pakistan mein peda hue
+
+Input: He passed away at the age of in Hyderabad on August.
+Output: woh augst ko cho mohalla hyderabad mein baras ki Umar mein intqaal kar gaya
+
+Input: He brought smiles to people's faces through his acting on stage and TV for more than years.
+Output: woh barson se ziyada arsay taq stij aur TV par apni adakari ke zariye logon ke cheharon par muskorahatein bikhertay rahay
+
+Input: He believed that the provision of education, health, employment, housing, and social services was the responsibility of the state.
+Output: woh taleem sahet rozgaar rahaish sameit samaji services ki farahmi ko riyasat ki zimma daari qarar dete they
+
+Input: He was born in Alexandria, Egypt on January.
+Output: woh January ko misar ke shehar iskandriya mein peda hue
+
+Input: He was born in Karachi on July.
+Output: woh July ko Karachi mein peda hue
+
+Input: He was born in a prosperous and educated family in Kolkata on July.
+Output: woh July ko calcutta ke aik khushaal aur taleem Yafta gharane mein peda hue
+
+Input: He died on December.
+Output: woh decemeber ko faut sun-hwa
+
+Input: He served as Chief Minister of Delhi until that day.
+Output: woh din taq Dehli ke wazeer Alla rahay
+
+Input: He served as editor of Dawn for years.
+Output: woh saal taq dawn ke editor rahay
+
+Input: He was born on September. Known in the cricket world as a hard hitter, he captained the West Indies Test cricket team until.
+Output: woh September ko peda sun-hwa cricket ki duniya mein woh aik hard hiter ke tor par jana jata hai is ne taq west indies ki test cricket team ki captani bhi ki
+
+Input: He served as Chancellor of Punjab University from to.
+Output: woh se taq jamea Punjab ke chancellor they
+
+Input: He has held various important diplomatic positions.
+Output: woh se mukhtalif ahem safarti ohdon par tainaat rahay hain
+
+Input: He passed away in February.
+Output: woh feb ko intqaal kargaye
+
+Input: He was born in the remote and underdeveloped village of Jumma Sharif in Dera Ismail Khan District in February.
+Output: woh feb ko zila deera ismael Khan ke aik pasmandah aur daur daraaz gaon jummay shareef mein peda hue
+
+Input: He served as Chief Minister of Sindh from February to May.
+Output: woh feb se May taq soobah Sindh ke wazeer Alla rahay they
+
+Input: He was born in Lahore in February.
+Output: woh feb ko Lahore mein peda huve
+
+Input: It was a day in May.
+Output: woh May ka din tha
+
+Input: He arrived in Calicut, India on May.
+Output: woh May ko kaali kat hindostan pouncha tha
+
+Input: He was born into a wealthy family in Florence, Italy on March and died in February.
+Output: woh March ko florns italy mein aik Ameer khandan mein peda sun-hwa aur feb ko faut sun-hwa
+
+Input: He passed away suddenly in March after a heart attack.
+Output: woh March mein achanak dil ka drrh parney par duniya se coach kargaye
+
+Input: He made a triumphant return to politics in Baku, took control of the country, and played a key role in ending the civil war.
+Output: woh mein bako mein fatihana tor par siyasat mein wapas aeye malik ki baag dor sambhali aur khanah jungi rkwane mein ahem kirdaar ada kya
+
+Input: He served as Provincial Minister of Transport and Forests for a short period. His family has been active in politics for several generations. He started his political career with the Pashtun nationalist student organization Pashtun Students Federation but later turned towards Islamic parties.
+Output: woh mein mukhtasir arsay keliye sobai wazeer tansport aur janglaat bhi rahay hain un ka khandan siyasat mein pichli kayi pshton se fa-aal hai unhon ne khud siyasat ka aaghaz pshton qoum parast talba tanzeem pshton astodnts federation se kya tha lekin baad mein islami jamaaton ki janib Raghib hue
+
+Input: He passed away in Mashhad in.
+Output: woh mein msh_hd mein faut hue
+
+Input: He became editor of Dawn in.
+Output: woh mein dawn ke editor banay
+
+Input: He passed away in November at the age of.
+Output: woh November ko baras ki Umar mein intqaal kargaye
+
+Input: He was one of the most famous national figures in Britain at the end of the th century.
+Output: woh win sadi ke awakhr mein Bartania mashhoor tareen qaumi shaksiaat mein se aik they
+
+Input: He also captained in Test matches.
+Output: woh test matchon mein captain bhi rahay
+
+Input: He is the author of books.
+Output: woh kitabon ke khaaliq hain
+
+Input: He was born into a religious family in Qazvin.
+Output: woh ko Qazwin ke aik mazhabi gharane mein pidahoye
+
+Input: In the mid- s, he produced films such as Free Ride and Appointment Year.
+Output: woh ke ashray ke wast mein ban'nay wali filmon free ride aur apwayntmnt yir ke bhi producer rahay
+
+Input: He depicted the early Muslim era's history dramatically, gaining many fans for his knowledge of Islamic history.
+Output: woh ibtidayi muslim daur ki tareekh dramayi soorat mein dikhata they jis wajah se un ke islami tareekh ke ilm ke bohat se madah they
+
+Input: That animal which has been dedicated to others than Allah for reverence and pleasure.
+Output: woh janwar jis ko ghair Allah ki tazeem khushnodi ke liye naamzad kar diya gaya ho aur
+
+Input: The animal that has been torn by a beast, except if you have slaughtered it before it dies.
+Output: woh janwar jisay diranday ne phaar khaya ho un mein se siwaye is ke jisay marnay se pehlay tum ne zibah kar liya aur
+
+Input: He served as Chief Minister of Sindh from May to February.
+Output: woh May se feb taq soobah Sindh ke wazeer Alla rahay they
+
+Input: He was born in Van, Turkey.
+Output: woh won turkey mein peda hue
+
+Input: Constitutional powers held by an individual or a national representative through which they can block the proceedings of an approved or pending resolution.
+Output: woh aaeni ikhtiyarat jo kisi infiradi shakhsiyat ya qaumi numainday kohasl hotay hain jin ke zariye woh kisi Manzoor shuda ya zair ghhor qarardad ki karwai rokkk sakta hai
+
+Input: Volcanoes in which volcanic activity occurs intermittently, and the emission of lava, etc., continues at short intervals, without a long hiatus, are called active volcanoes.
+Output: woh aatish fishan jin mein aatish fashani ka amal gaahay begahay hota rehta hai aur lava waghera ka ikhraj thoray waqfay se jari rehta hai aur is amal mein taweel arsa haail nahi rehta zindah aatish fishan kehlate hain
+
+Input: He still resides in the United States, but now he regularly participates in Pakistani programs.
+Output: woh aaj bhi America mein rahaish Pazeer hain taham ab woi baqaidagi se Pakistani programon mein shareek ho rahay hain
+
+Input: She last appeared in public at the ceremony marking the anniversary of the Nizami Museum.
+Output: woh aakhri baar Nizami ajaaeb ghar ke saal mukammal honay par munaqidah taqreeb ki sadarat ke mauqa par manzar aam par ayen
+
+Input: He is a golden reflection of a man.
+Output: woh aadmi ka sunehri aks hai
+
+Input: He was among the leading journalists working for the freedom of the press in Pakistan, and his writings from General Zia-ul-Haq's era are still read and remembered today.
+Output: woh aazadyi sahaafat ke liye kaam karne walay Pakistan ke sarkardah sahafion mein shaamil rahay aur general zia ul haq ke daur mein likhi gayi un ki tahreeron ko aaj bhi parha aur yaad kya jata hai
+
+Input: He turned out to be a snake in the grass. He turned out to be a deceiver. Playing the flute before the buffalo means the talk has no effect. Kill the snake, but don't break the stick means achieving the goal without harm. Confession of crime leads to correction of crime. A straw is a drowning man's last hope. Flattery is a bad habit. The thief's...
+Output: woh aasteen ka saanp nikla woh dhokay baz nikla bhens ke agay bain bajana baat ka assar nah hona saanp bhi marjaye laathi bhi nah tootay yani maqsad bhi poora hojaye aur nuqsaan bhi nah ho iqraar jurm islaah jurm doubtey ko tinke ka sahara khoshamad buri bulaa hai chor
+
+Input: He was famous for bowling both off-cutters and leg-cutters and was considered a very effective bowler on matting pitches.
+Output: woh of kattar aur league kattar dono terhan ki gindin karanay ke liye bohat mashhoor they aur meet ki pchon par khaas tor se bohat muasar bowler samjhay jatay they
+
+Input: He held positions such as Secretary of Publicity for the All India Muslim League.
+Output: woh all India muslim league ke sectory nshrwashaat jaisay ohdon par bhi Faiz rahay
+
+Input: The eye that is illuminated by the collyrium of the West.
+Output: woh aankhh ke hai surma afrng se roshan
+
+Input: He later became the Senior Vice Chairman of the Pakistan Peoples Party.
+Output: woh agay chal kar Pakistan peoples party ke senior wise chairman ke ohday par Faiz hue
+
+Input: Verses that mention Allah's attribute of mercy.
+Output: woh ayaat jin mein Allah ki sift rehmat ka zikar ho
+
+Input: Verses that mention protection and guardianship.
+Output: woh ayaat jin mein hifazat nigehbani ka zikar ho jaisay
+
+Input: Verses that require prostration upon reciting or hearing them.
+Output: woh ayaat jin ki talawat karne ya un ko suneney par sajda kya jata hai
+
+Input: Verses that invite reason, thought, and argument.
+Output: woh ayaat jo aqal fikar aur Daleel Burhan ki dawat deti hain
+
+Input: He has taken wickets so far on average.
+Output: woh ab taq ki ost se wicket haasil kar chuki hain
+
+Input: He has now converted to Islam.
+Output: woh ab musalman ho chuke they
+
+Input: He is now the coach of the Chinese cricket team.
+Output: woh ab chinese cricket team ke coach hain
+
+Input: He was initially an active member of the Indian National Congress.
+Output: woh ibtida mein indian national congress ke sargaram rukan they
+
+Input: That cloud from which the vein of the flower is as thin as a breath.
+Output: woh abr jis se rigg Gul hai misl taar nafs
+
+Input: He was still at Oxford when his mother passed away due to cancer.
+Output: woh abhi aaksfrd mein hi they jab un ki walida ka cancer ki wajah se intqaal ho gaya
+
+Input: He was still young when his brother Ashok Kumar moved to Bombay to pursue acting. Another brother, Anoop Kumar, was also associated with films.
+Output: woh abhi chhootey hi they ke ke bhai ashok kumar ne Bombay jaakar adakari ka pesha ikhtiyar kya un ke aik dosray bhai Anop kumar bhi filmon se wabsta they
+
+Input: Those Hadiths that generally specify the leadership and succession of the Prophet Muhammad (PBUH) after his passing.
+Output: woh ahadees jo ajmali tor par rasool Allah sale Allah aleh aala ke baad imamat rahbari aur aap ki janshini par tasreeh karti hain
+
+Input: She used to write poetry under the name Ada Badayuni.
+Output: woh ada badauni ke naam se shair kehti theen
+
+Input: The institution where the country's coins are minted.
+Output: woh idaara jis mein malik ke sakay dhaalay jatay hain
+
+Input: Institutions established by the General Assembly or the Economic Council.
+Output: woh idaray jinhein general assembly ya iqtisadi council qaim kere
+
+Input: She is the sister of actress Ayesha Khan.
+Output: woh adakara aisha Khan ki behan hain
+
+Input: Religions are included in Dharmic religions, just as Islam is considered a way of life; similarly, in Dharmic religions, Dharma refers to a method or manner. Since what we call Hinduism is actually...
+Output: woh Adyan dharmi Adyan mein shaamil hain jin ki bunyaad par dharam waqay ho- jis terhan islam mein deen aik tarz zindagi samgha jata hai is terhan dharmi Adyan mein dharam se morad tareeqa ya qareena hai thisishypenhere chunkay jis cheez ko hum hindu mat ka naam dete hain woh
+
+Input: He was also dissatisfied with the results of the Aqaba summit and negotiations held in Jordan.
+Output: woh urdan mein honay wali ukba sarbarah mulaqaat aur mazakraat ke nataij se bhi mutmaen nahi they
+
+Input: He is the son of Urdu poet Zafar Iqbal.
+Output: woh urdu shayar Zafar Iqbal ke Farzand hain
+
+Input: He also writes Urdu poetry.
+Output: woh urdu shairi bhi likhte hain
+
+Input: He is an important poet of the Urdu prose poem.
+Output: woh urdu ke nasri nazam ke ahem shayar hain
+
+Input: He went there with such grace and returned with humility.
+Output: woh is ada se wahan ja ke sharam saar aaya
+
+Input: He denies that the state's purpose is to achieve virtue or freedom.
+Output: woh is baat se inkari hai ke riyasat ka maqsad neki ya azadi ka husool hai
+
+Input: He has previously won the Presidential Award for a paper written on nuclear forces in the field of physics.
+Output: woh is se qabal bhi physics ke maidan mein johri quwatoon par likhay gay maqalay par sadaarti award haasil kar chukay hain
+
+Input: Because of the higher density of the Earth's surface, its gravitational pull is stronger, but since Mercury is a very small planet, its gravitational pull is much weaker compared to Earth, so it can be concluded that Mercury's higher density is due to...
+Output: woh is terhan ke zamee ki ziyada kasafat honay ki wajah kashish saqal hai magar chunkay utarid aik bohat chhota sayarah hai is liye is ki kashish saqal zamee ke muqablay mein bohat kam hai isi liye yeh nateeja nikala ja sakta hai ke utarid ki ziyada kasafat ki wajah
+
+Input: This area is a useful legacy for the local people. Research on it.
+Output: woh is ilaqa ke logon ke liye nasiyaat geer matruka hai is par tehqiqaat karen
+
+Input: She was also the host of this talk show and was known for her aggressive hosting style. In addition to TV, stage, and film, she also received several literary awards.
+Output: woh is talk show ki maizban bhi rahen aur is show mein bhi un ki shohrat aik Jareh maizban ki thi TV stage aur film ke ilawa unhon ne kayi adbi inamaat bhi haasil kiye
+
+Input: She was also the creator of this drama.
+Output: woh is daramay ki takhleeq car b_hi t_hin
+
