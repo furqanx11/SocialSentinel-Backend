@@ -78,3 +78,13 @@ async def get_warnings():
         return success_response("User warnings fetched successfully", data={"warnings": warnings})
     except Exception as e:
         return error_response(str(e))
+
+@dashboard_router.get("/detected_word/{user_id}", response_model=list[str])
+async def get_detected_words(user_id: str):
+    try:
+        words = await get_detected_words_for_user(user_id)
+        if not words:
+            return not_found_response(msg="No detected words found")
+        return success_response("Detected words fetched successfully", data=words)
+    except Exception as e:
+        return error_response(str(e))
