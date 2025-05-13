@@ -60,3 +60,28 @@ async def detected_content_over_weeks():
         return result
     except Exception as e:
         raise ValueError(f"Error fetching detected content over weeks: {str(e)}")
+
+async def users_with_more_than_three_warnings():
+    try:
+        pipeline = [
+            {
+                "$match": {
+                    "warnings": {"$gt": 2}
+                }
+            },
+            {
+                "$project": {
+                    "_id": 1,
+                    "username": 1,
+                    "warnings": 1
+                }
+            }
+        ]
+        result = await users_collection.aggregate(pipeline).to_list(length=None)
+        if not result:
+            return None
+        for user in result:
+            user["_id"] = str(user["_id"])
+        return result
+    except Exception as e:
+        raise ValueError(f"Error fetching user warnings: {str(e)}")

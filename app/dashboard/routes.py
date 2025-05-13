@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends
 from app.post.model import PostFull
-from .db import dashboard_count, detected_content_over_weeks, warnings_count
+from .db import dashboard_count, detected_content_over_weeks, warnings_count, users_with_more_than_three_warnings
 from app.post.db import get_posts_for_user
 from app.auth.db import get_detected_words_for_user, get_all_detected_words
 from app.middleware.dependecy import get_current_user
@@ -66,5 +66,15 @@ async def get_detected_content_over_weeks():
         if not counts:
             return not_found_response(msg="Detected content over weeks not found")
         return success_response("Detected content over weeks fetched successfully", data=counts)
+    except Exception as e:
+        return error_response(str(e))
+    
+@dashboard_router.get("/more_than_three_warnings", response_model=dict)
+async def get_warnings():
+    try:
+        warnings = await users_with_more_than_three_warnings()
+        if warnings is None:
+            return not_found_response(msg="User not found or no warnings")
+        return success_response("User warnings fetched successfully", data={"warnings": warnings})
     except Exception as e:
         return error_response(str(e))
