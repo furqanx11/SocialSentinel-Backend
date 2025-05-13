@@ -5,10 +5,4 @@ python-dotenv
 pydantic
 pydantic[email]
 PyJWT
-websockets
-sentence-transformers 
-faiss-cpu 
-rapidfuzz 
-unidecode 
-emoji
 gunicorn
