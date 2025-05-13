@@ -6,7 +6,6 @@ from nltk.util import ngrams
 import json
 from app.auth.db import update_fairness_score, add_detected_words
 
-# embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 with open(r"D:\SocialSentinel\hatewords.json", "r") as f:
