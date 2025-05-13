@@ -65,3 +65,4 @@ urllib3==2.4.0
 uvicorn==0.34.0
 websockets==15.0.1
 wheel==0.45.1
+gunicorn==21.2.0
