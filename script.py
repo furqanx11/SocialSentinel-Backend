@@ -1,8 +1,5 @@
 import re
-import faiss
 from unidecode import unidecode
-from sentence_transformers import SentenceTransformer
-from nltk.util import ngrams
 import json
 from app.auth.db import update_fairness_score, add_detected_words
 
